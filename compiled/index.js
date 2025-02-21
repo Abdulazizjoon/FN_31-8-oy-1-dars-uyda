@@ -34,7 +34,26 @@
 //     return n.filter((value) => {
 //         if (value%2==0) {
 //             return value
-//         } 
+//         }
 //     })
 // }
 // console.log(res(num));
+//5-mashq
+//6-mashq
+// interface user {
+//     ism: string;
+//     yosh: number;
+//     kurs: number;
+// }
+// function res(user: user) {
+//     console.log(user.ism);
+//     console.log(user.yosh);
+//     console.log(user.kurs);
+// }
+// let student: user = {
+//     ism: "Abdulaziz",
+//     yosh: 20,
+//     kurs: 2
+// };
+// res(student);
+//7-mashq
